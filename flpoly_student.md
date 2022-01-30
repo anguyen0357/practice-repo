@@ -1,27 +1,27 @@
-## First Name Last Name
+## Anthony Nguyen
 
-### Term Year 
+### Spring 2022 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Cloud Infrastructure and Services
 
-- Course 3
+- Principles of Microeconomics
 
-- Course 4
+- Discrete Mathematics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading
 
-- Thing 2
+- Gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Data Science
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/29
